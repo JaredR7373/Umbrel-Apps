@@ -50,8 +50,3 @@ services:
   tika:
     image: ghcr.io/paperless-ngx/tika:latest
     restart: unless-stopped
-
-volumes:
-  data:
-  media:
-  redisdata:
