@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: bat-grocy
+name: Grocy
+tagline: Grocery Tracker
+icon: https://f-droid.org/repo/xyz.zedler.patrick.grocy/en-US/icon_GAoo5LLMVaGqL5SyqnJP5MwL0C8_G7MsoWGipBgFCBw=.png
+category: Development
+version: "1.0.0"
+port: 9283
+description: >-
+  Track your groceries with ease!
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Batman
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial Release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
