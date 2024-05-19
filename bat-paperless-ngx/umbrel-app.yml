@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: bat-paperless-ngx
+name: Paperless
+tagline: Document Oraganizer
+icon: https://static-00.iconduck.com/assets.00/paperless-icon-1702x2048-uwkzd5eh.png
+category: Development
+version: "0.1.0"
+port: 8010
+description: >-
+  Organize documents
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Batman
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial Release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
