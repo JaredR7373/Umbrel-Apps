@@ -12,8 +12,7 @@ services:
     image: lscr.io/linuxserver/grocy:latest
     container_name: grocy
     environment:
-      PORT: 80
-
+      - PORT=80
       - PUID=1000
       - PGID=1000
       - TZ=EST5EDT
