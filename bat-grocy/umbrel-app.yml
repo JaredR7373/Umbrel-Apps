@@ -4,7 +4,7 @@ name: Grocy
 tagline: Grocery Tracker
 icon: https://f-droid.org/repo/xyz.zedler.patrick.grocy/en-US/icon_GAoo5LLMVaGqL5SyqnJP5MwL0C8_G7MsoWGipBgFCBw=.png
 category: Development
-version: "1.0.0"
+version: "0.1.4"
 port: 9283
 description: >-
   Track your groceries with ease!
