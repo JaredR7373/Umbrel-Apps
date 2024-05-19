@@ -1,10 +1,11 @@
 version: "3.7"
 
 services:
-  environment:
+  app_proxy:
+    environment:
       APP_HOST: bat-grocy_web_1
-      APP_PORT: 80
-    container_name: grocy_app_proxy_1
+      APP_PORT: 3010
+    container_name: bat-grocy_app_proxy_1
 
   web:
     image: lscr.io/linuxserver/grocy:latest
