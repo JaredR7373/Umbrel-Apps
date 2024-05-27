@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: bat-wishthis
+name: Wishthis
+tagline: Wishlist Tracker
+icon: https://icon-library.com/images/wish-icon/wish-icon-28.jpg
+category: Development
+version: "0.1.0"
+port: 4000
+description: >-
+  Organize documents
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Batman
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial Release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
